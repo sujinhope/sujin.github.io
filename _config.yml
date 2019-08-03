@@ -50,8 +50,6 @@ author:
 menu:
   - title:             Hydejack
     url:               /hydejack/
-    - title:           Test
-    url:               /test/
   - title:             Hyde
     url:               /hyde/
   - title:             Documentation
