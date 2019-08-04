@@ -1,11 +1,11 @@
 ---
 layout: list
-title: Projects
-slug: myprojects
+title: Test
+slug: test
 menu: true
-order: 3
+order: 4
 description: >
-  프로젝트에 관련된 내용들
+  sub category test
 accent_color: rgb(38,139,210)
 accent_image:
   background: rgb(32,32,32)
