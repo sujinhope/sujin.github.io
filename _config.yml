@@ -29,7 +29,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  개발자 GIN의 블로그.
+  "Break the comfort zone".
 
 # A list of keywords for your blog
 keywords:              []
@@ -49,11 +49,11 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Study
-    url:               /Study/
+    url:               /study/
   - title:             Diary
-    url:               /Diary/
+    url:               /diary/
   - title:             Projects
-    url:               /Projects/
+    url:               /myprojects/
   - title:             About
     url:               /about/
 
