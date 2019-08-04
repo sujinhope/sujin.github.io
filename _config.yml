@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://marco0332.github.io
+url:                   https://sujinhope.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  ko
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 GIN
+title:                 Sujin
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -29,7 +29,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Break the comfort zone".
+  개발자 Sujin의 블로그 입니다
 
 # A list of keywords for your blog
 keywords:              []
@@ -41,8 +41,8 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Lee GiIn
-  email:               marco2520332@gmail.com
+  name:                Park Sujin
+  email:               hope772948@gmail.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -133,7 +133,7 @@ defaults:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:      UA-116255001-3
+# google_analytics:      UA-116255001-3
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
