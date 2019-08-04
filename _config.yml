@@ -133,7 +133,7 @@ defaults:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-# google_analytics:      UA-XXXXXXXX-X
+google_analytics:      UA-116255001-3
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
@@ -174,7 +174,7 @@ hydejack:
 
   # Set to `true` if you don't intend on changing the accent color on a per-page basis.
   # This will increase site build speed!
-  no_page_style:       true
+  no_page_style:       false
 
   # Code blocks and tables "break" the layout by spanning the full available width.
   # Set this to true if you want them to be the same width as other content.
