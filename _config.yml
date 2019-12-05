@@ -25,7 +25,7 @@ title:                 Sujin
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
   "Break the comfort zone".
-  개발자 GIN의 블로그
+  개발자 Sujin의 블로그
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -80,7 +80,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg3.jpg
+accent_image:          /assets/img/backk.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
