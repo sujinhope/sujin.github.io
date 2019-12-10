@@ -1,5 +1,5 @@
 ---
-image: /assets/icons/tile-small.png
+image: /assets/img/blog/hydejack-8.png
 ---
 
 # About
