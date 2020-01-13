@@ -6,7 +6,7 @@
 
 <br/>
 
-<b style="color:#E94A1D">:fallen_leaf:&nbsp; HTTP 통신이란?</b>
+<b style="color:#E94A1D">[🍂](https://apps.timwhitlock.info/emoji/tables/unicode#emoji-modal)&nbsp; HTTP 통신이란?</b>
 
 - *Hyper Text Transfer Protocol*
 
@@ -24,7 +24,7 @@
 
 
 
-<b style="color:#E94A1D">:fallen_leaf:&nbsp; HTTP 통신의 특징</b>
+<b style="color:#E94A1D">[🍂](https://apps.timwhitlock.info/emoji/tables/unicode#emoji-modal)&nbsp; HTTP 통신의 특징</b>
 
 - **Stateless**
 
@@ -54,7 +54,6 @@
 
   <div align="center"><img src="https://user-images.githubusercontent.com/33229855/70770180-c2a07780-1daf-11ea-9170-8b8fad493fbb.png" style="align:center"/></div>
 
-  
 
 
 
@@ -74,7 +73,7 @@
 
 
 
-<b style="color:#E94A1D">:fallen_leaf:&nbsp;Cookie</b>
+<b style="color:#E94A1D">[🍂](https://apps.timwhitlock.info/emoji/tables/unicode#emoji-modal)&nbsp;Cookie</b>
 
 - 사용자의 디스크나 웹 브라우저 메모리에 저장된다.
 
@@ -117,7 +116,7 @@
 
 <br/>
 
-<b style="color:#E94A1D">:fallen_leaf:&nbsp;Session</b>
+<b style="color:#E94A1D">[🍂](https://apps.timwhitlock.info/emoji/tables/unicode#emoji-modal) &nbsp;Session</b>
 
 - 웹 서비스를 위한 사용자의 정보를 <span class="evidence">서버측</span>에 저장한다.
 
