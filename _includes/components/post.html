@@ -5,11 +5,11 @@
 
 <article id="post{{ post.id | replace:'/','-' }}" class="page post mb6" role="article">
   <header>
-    <b class="post-title" style="font: size 1.4em;">
+    <h1 class="post-title" style="font: size 1.4em;">
       {% unless no_link_title %}<a href="{{ post.url | relative_url }}" class="flip-title">{% endunless %}
         {{ post.title }}
       {% unless no_link_title %}</a>{% endunless %}
-    </b>
+    </h1>
 
     <span class="post-date heading" style="text-align: right;">
       {% assign post_format = site.data.strings.date_formats.post | default:"%d %b %Y" %}
