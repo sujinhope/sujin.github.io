@@ -48,8 +48,12 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             Frontend
+    url:               /frontend/
+  - title:             Backend
+    url:               /backend/
   - title:             Study
-    url:               /study/
+    url:               /study/               
   - title:             Diary
     url:               /diary/
   - title:             Projects
